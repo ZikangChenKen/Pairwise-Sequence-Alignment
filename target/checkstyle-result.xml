@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw3-ZikangChenKen/src/main/java/edu/rice/comp322/IdealParScoring.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw3-ZikangChenKen/src/main/java/edu/rice/comp322/SparseParScoring.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw3-ZikangChenKen/src/main/java/edu/rice/comp322/AbstractPreallocatedSorting.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw3-ZikangChenKen/src/main/java/edu/rice/comp322/UsefulParScoring.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw3-ZikangChenKen/src/main/java/edu/rice/comp322/ScoringRunner.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw3-ZikangChenKen/src/main/java/edu/rice/comp322/AbstractDnaScoring.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw3-ZikangChenKen/src/main/java/edu/rice/comp322/IScoringConstructor.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw3-ZikangChenKen/src/main/java/edu/rice/comp322/SeqScoring.java">
+</file>
+</checkstyle>
